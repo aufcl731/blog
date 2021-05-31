@@ -29,7 +29,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../smart" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,9 +42,9 @@
       <recent name="C:\project\blog" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\project\blog" />
       <recent name="C:\project\blog\templates\html" />
       <recent name="C:\project\blog\templates" />
-      <recent name="C:\project\blog" />
     </key>
   </component>
   <component name="RunManager">
@@ -94,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622099074077</updated>
-      <workItem from="1622099075367" duration="15784000" />
+      <workItem from="1622099075367" duration="27645000" />
     </task>
     <servers />
   </component>
@@ -102,18 +102,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1182" y="242" key="FileChooserDialogImpl" timestamp="1622164427203">
+    <state x="1182" y="242" key="FileChooserDialogImpl" timestamp="1622185493856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1182" y="242" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622164427203" />
+    <state x="1182" y="242" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622185493856" />
     <state x="607" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1622164472923">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="607" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622164472923" />
-    <state x="587" y="216" width="745" height="608" key="find.popup" timestamp="1622103274215">
+    <state x="587" y="216" width="745" height="608" key="find.popup" timestamp="1622420629451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="587" y="216" width="745" height="608" key="find.popup/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622103274215" />
+    <state x="587" y="216" width="745" height="608" key="find.popup/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622420629451" />
     <state x="601" y="246" width="700" height="530" key="recent.locations.popup" timestamp="1622103133687">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

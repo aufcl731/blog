@@ -8,7 +8,6 @@
 </head>
 <body>
 {% for post in posts %}
-    ??
     <h1><a href="{% url 'detail' pk=post.pk %}">{{post.title}}</a></h1>
     <p>{{post.content}}</p>
     <hr>

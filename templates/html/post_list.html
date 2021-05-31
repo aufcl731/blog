@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>blog list</title>
+</head>
+<body>
+    <div>
+        <h1><a href="">blog list</a> </h1>
+    </div>
+    {% for list2 in list2 %}
+        list
+        {{ list2.title }}
+        <p>published: {{ list2.published_date }}
+    {% endfor %}
+    {% for post in posts %}
+        <div>
+            posts
+            {{ post.title }}
+            <p>published: {{ post.published_date }}
+            <h1><a href="">{{ post.title }}</a></h1>
+            <p>{{ post.text|linebreaksbr }}</p>
+
+        </div>
+    {% endfor %}
+</body>
+</html>
